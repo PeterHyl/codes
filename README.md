@@ -10,5 +10,5 @@ Let's get Vundle installed:
 Copy my .vimrc to home direcory. You can add the plugins you want to install, then fire up VIM and run:
 
 	:PluginInstall
-#Authors
+# Authors
 * **Peter Hyl** 
