@@ -14,7 +14,7 @@ import os
 import sys
 
 from fcntl import LOCK_EX, LOCK_UN, flock
-from basic_functions import initialize_logging
+from Python.basic_functions import initialize_logging
 
 ITEMS_DIR = "path_to_items"
 

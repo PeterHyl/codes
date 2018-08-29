@@ -22,7 +22,7 @@ from urllib.parse import urldefrag, urljoin, urlparse, urlsplit
 import bs4
 import requests
 
-from basic_functions import initialize_logging, safe_func
+from Python.basic_functions import initialize_logging, safe_func
 
 
 class CrawlerCache(object):
